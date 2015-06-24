@@ -1,5 +1,33 @@
+
 # Wednesday, 24th June 2015 ( 4.9.0 )
  * Unassigned tasks
+
+# Tuesday, June 23th 2015 ( 4.8.0 )
+ * New Emoji (InVision, Twitter, Facebook, etc) 
+ * Task description update
+ * Members added after a poll is posted can now vote on it
+ * Timezones support enhancement
+ * Task card can now restore to full-screen if minimized 
+ * Various bug fixes
+
+# Thursday, June 18th 2015 ( 4.7.0 )
+ * A task card can now be expanded in full-screen mode
+ * Revamp of task lists (subjects, icons, etc)
+ * Main content is centred when a Task Card is open 
+ * Add explanation to invite members or guests on subjects
+
+# Tuesday, June 16th 2015 ( 4.6.2 )
+ * Add direct upgrade for workspace and upgrade for all free workspaces 
+
+# Monday, June 15th 2015 ( 4.6.0 )
+ * Enhanced User Show profile page 
+
+# Friday, June 12th 2015 ( 4.5.0 )
+ * Date on a conversation is now a link to open it
+ * Task saving indicator
+ 
+# Friday, June 12th 2015 ( 4.4.0 ) 
+ * Various fixes and enhancements
  
 # Friday, 5th June 2015 ( 4.3.0 )
  * Dropzone and Direct file upload in Task Card
