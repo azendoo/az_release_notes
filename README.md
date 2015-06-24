@@ -1,3 +1,6 @@
+# Wednesday, 24th June 2015 ( 4.9.0 )
+ * Unassigned tasks
+ 
 # Friday, 5th June 2015 ( 4.3.0 )
  * Dropzone and Direct file upload in Task Card
  * Emojis Picker now available in Task Card
