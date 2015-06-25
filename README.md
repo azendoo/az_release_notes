@@ -1,3 +1,6 @@
+# Thursday, 25th June 2015 (4.10.0)
+ * User profile page is contextualized by workspace
+ * Search in the top bar is contextualized by workspace
 
 # Wednesday, 24th June 2015 ( 4.9.0 )
  * Unassigned tasks
