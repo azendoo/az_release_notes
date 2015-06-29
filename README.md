@@ -1,3 +1,8 @@
+# Monday, 29th June 2015 (4.11.0)
+ * Like/unlike a message
+ * New Emojis: Dribbble, LinkedIn 
+ * Placeholder for video medias
+
 # Thursday, 25th June 2015 (4.10.0)
  * User profile page is contextualized by workspace
  * Search in the top bar is contextualized by workspace
@@ -6,7 +11,7 @@
  * Unassigned tasks
 
 # Tuesday, June 23th 2015 ( 4.8.0 )
- * New Emoji (InVision, Twitter, Facebook, etc) 
+ * New Emojis (InVision, Twitter, Facebook, etc) 
  * Task description update
  * Members added after a poll is posted can now vote on it
  * Timezones support enhancement
