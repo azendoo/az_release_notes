@@ -1,3 +1,21 @@
+# Wednesday, 22nd July 2015 (4.14.7)
+* Task description : enhanced Style, checkboxes and links fixes
+* Calendar export fix, refactor Bitly retries
+
+# Monday, 20th July 2015 (4.14.3)
+*invitation des guests
+*page billing premium perso 
+
+# Friday, 17th July 2015 (v4.14.0)
+*API keys for Zapier
+
+# Wednesday, 8th July 2015 (v4.13.0)
+* Update conversation comment style
+* Add a cmd+enter tooltip to post
+
+# Wednesday, 8th July 2015 (v4.12.0)
+* Various bug fixes
+
 # Monday, 29th June 2015 (4.11.0)
  * Like/unlike a message
  * New Emojis: Dribbble, LinkedIn 
