@@ -3,11 +3,11 @@
 * Calendar export fix, refactor Bitly retries
 
 # Monday, 20th July 2015 (4.14.3)
-*invitation des guests
-*page billing premium perso 
+* Invitation des guests
+* Page billing premium perso 
 
 # Friday, 17th July 2015 (v4.14.0)
-*API keys for Zapier
+* API keys for Zapier
 
 # Wednesday, 8th July 2015 (v4.13.0)
 * Update conversation comment style
