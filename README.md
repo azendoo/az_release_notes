@@ -1,3 +1,46 @@
+
+
+# Wednesday, 19th August 2015 ( 4.20.12 )
+* Sidemenu's layout improvements (Access to Team and Subjects lists)
+
+# Wednesday, 12th August 2015 ( 4.19.0-3 )
+* Direct Messages enhancements: 
+  * Drag&Drop file upload to a Direct Message window and drag&drop zone on hover
+  * Copy/Paste from Photoshop and Invision 
+  * Confirmation avant suppression d'un DirectMessage 
+* "Messages" renaming into "Activity" 
+* Ask for confirmation before resetting a post message form
+* Fix sticky tooltip when posting a message on timeline
+* Fix responsive sidemenu
+* Fix page users index width
+* Remove unused happy-calculator image in html layout
+
+# Tuesday, 11th August 2015 ( 4.18.2 )
+* Direct Messages enhancement: 
+  * Confirm a DM deletion
+  * Enhanced pictures display in DM thread
+  * Enhanced DM history management
+* Various fixes
+
+# Friday, 7th August 2015 ( 4.18.0 )
+* Direct Messages notifications:
+  * InApp Direct Message notification indicator
+  * Play sound for a new DM  
+  * Click on Desktop Notification opens the thread 
+  * Inside a thread, indicator to show DM activity on another thread 
+  * Unread threads counter in the sidebar
+
+# Friday, 7th August 2015 ( 4.17.0 )
+* Tasks separators \o/
+
+# Monday, 3rd August 2015 ( 4.16.0 )
+* Direct Messages \o/
+* Optimize svg icons with svgo
+
+# Monday, 27th July 2015 ( 4.15.0 )
+* Display current workspace name in page title
+* Revamped subscription's management page
+
 # Wednesday, 22nd July 2015 (4.14.7)
 * Task description : enhanced Style, checkboxes and links fixes
 * Calendar export fix, refactor Bitly retries
