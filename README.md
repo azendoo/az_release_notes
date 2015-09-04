@@ -1,4 +1,8 @@
+# Friday, 4th September 2015 ( 4.22.0 )
+* Add pirate, Zapier and Pinterest emojis and Resize them all
 
+# Friday, 4th September 2015 ( 4.21.7 )
+* Rich Previews for YouTube and Vimeov
 
 # Wednesday, 19th August 2015 ( 4.20.12 )
 * Sidemenu's layout improvements (Access to Team and Subjects lists)
