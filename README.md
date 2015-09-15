@@ -1,3 +1,23 @@
+# Tuesday, 15th September 2015 ( 4.24.0-2 )
+* Sidemenu style update (colors, Help button, etc)
+* Add "View all subjects" link in sidemenu
+* Style updates relative to direct messages
+* Fix scroll for long list of workspace in sidemenu
+* Fix emojis icon
+
+# Friday, 11th September 2015 ( 4.23.0 )
+* Add RichPreview for Twitter
+* Task card polish
+
+# Friday, 11th September 2015 ( 4.22.1-6 )
+* Capitalize Activity's service
+* Add workpaces and subjects in task print page
+* Capitalize Zapier activity
+* Style update on Subscription pages
+* Fix subscription dashboard if a manager is no longer in a workspace
+* Fix task comment form height
+* Fix Googlefile media in Direct Messages
+
 # Friday, 4th September 2015 ( 4.22.0 )
 * Add pirate, Zapier and Pinterest emojis and Resize them all
 
