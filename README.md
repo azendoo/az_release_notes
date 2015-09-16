@@ -1,3 +1,6 @@
+# Wednesday, 16th September 2015 ( 4.25.0 )
+* Full rewrite of sign-in / sign-up and invitations
+
 # Tuesday, 15th September 2015 ( 4.24.0-2 )
 * Sidemenu style update (colors, Help button, etc)
 * Add "View all subjects" link in sidemenu
