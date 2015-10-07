@@ -1,3 +1,11 @@
+# Monday, 5th October 2015 ( 4.27.0 )
+* Subjects analytics dashboard
+* Add zoom on media galery
+* Allow workspace admin to manage all subjects
+ 
+# Wednesday, 23th September 2015 ( 4.26.0 )
+* Add RichPreview for Vimeo and Youtube
+
 # Wednesday, 16th September 2015 ( 4.25.0 )
 * Full rewrite of sign-in / sign-up and invitations
 
