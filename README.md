@@ -1,18 +1,18 @@
 # Thursday, 8th October 2015 ( 4.28.0 )
-* Subjects Guests enhancement
-  * Subjects Guests now get the enclosing workspaces displayed in sidemenu
-  * Subjects Guests have a specific display inside of a workspace and an enhanced feature set
-* Subjects can be assigned with a shared color indicator
-* Starred subjects
-  * Pinned subjects have been renamed into Starred subjects 
-  * Starred subjects now have a dedicated section in sidemenu
-  * Starred subjects and workspaces can be reordered by drag&drop in sidemenu
-* Significantly optimized application and workspace loading time
+* - Subjects Guests enhancement
+  * - Subjects Guests now get the enclosing workspaces displayed in sidemenu
+  * - Subjects Guests have a specific display inside of a workspace and an enhanced feature set
+* - Subjects can be assigned with a shared color indicator
+* - Starred subjects
+  * - Pinned subjects have been renamed into Starred subjects 
+  * - Starred subjects now have a dedicated section in sidemenu
+  * - Starred subjects and workspaces can be reordered by drag&drop in sidemenu
+* - Significantly optimized application and workspace loading time
 
 # Monday, 5th October 2015 ( 4.27.0 )
-* Subjects analytics dashboard
-* Add zoom on media galery
-* Allow workspace admin to manage all subjects
+* - Subjects analytics dashboard
+* - Add zoom on media galery
+* - Allow workspace admin to manage all subjects
  
 # Wednesday, 23th September 2015 ( 4.26.0 )
 * Add RichPreview for Vimeo and Youtube
