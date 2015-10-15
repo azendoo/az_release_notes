@@ -1,4 +1,12 @@
-# Thursday, 8th October 2015 ( 4.28.0 )
+# Thursday, 15th October 2015 ( 4.28.7-18 )
+* Zapier integration https://zapier.com/zapbook/azendoo/
+* Updated Integrations settings page
+* Guests can leave a subject
+* "Done" label for completed tasks in timeline
+* Safari 9 pinned tab icon
+* Pending membership requests count badge on a subject
+
+# Thursday, 8th October 2015 ( 4.28.0-6 )
 * Subjects Guests enhancement
   * Subjects Guests now get the enclosing workspaces displayed in sidemenu
   * Subjects Guests have a specific display inside of a workspace and an enhanced feature set
@@ -11,29 +19,29 @@
 
 # Monday, 5th October 2015 ( 4.27.0 )
 * Subjects analytics dashboard
-* Add zoom on media galery
+* Zoom on media galery
 * Allow workspace admin to manage all subjects
  
 # Wednesday, 23th September 2015 ( 4.26.0 )
-* Add RichPreview for Vimeo and Youtube
+* RichPreview for Vimeo and Youtube
 
 # Wednesday, 16th September 2015 ( 4.25.0 )
 * Full rewrite of sign-in / sign-up and invitations
 
 # Tuesday, 15th September 2015 ( 4.24.0-2 )
 * Sidemenu style update (colors, Help button, etc)
-* Add "View all subjects" link in sidemenu
+* "View all subjects" link in sidemenu
 * Style updates relative to direct messages
 * Fix scroll for long list of workspace in sidemenu
 * Fix emojis icon
 
 # Friday, 11th September 2015 ( 4.23.0 )
-* Add RichPreview for Twitter
+* RichPreview for Twitter
 * Task card polish
 
 # Friday, 11th September 2015 ( 4.22.1-6 )
 * Capitalize Activity's service
-* Add workpaces and subjects in task print page
+* Workpaces and subjects in task print page
 * Capitalize Zapier activity
 * Style update on Subscription pages
 * Fix subscription dashboard if a manager is no longer in a workspace
