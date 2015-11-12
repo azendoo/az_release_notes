@@ -1,3 +1,12 @@
+# Thursday, 12th November 2015 ( 4.30.1 )
+* New user onboarding
+* Add search bar on DirectMessages index
+* Activities can be deleted by anyone
+* Conversations created by AzBot can be deleted by anyone
+* Add label for done tasks in timeline
+* Guests can leave subjects
+* Various fixes
+
 # Thursday, 15th October 2015 ( 4.28.7-18 )
 * Zapier integration https://zapier.com/zapbook/azendoo/
 * Updated Integrations settings page
