@@ -1,3 +1,22 @@
+# Friday, 4th December 2015 ( 4.35 )
+* New overview page (group tasks by workspace)
+* Add workspace settings modal
+
+# Monday, 30th November 2015 ( 4.34 )
+* Subject Calendar view official release
+* Add support for dailymotion videos
+* Add Facebook video integration
+* Add support for Slideshare & Speakerdeck
+
+# thursday, 26th November 2015 ( 4.33 )
+* Email to task address for each workspace
+
+# Tuesday 24th November 2015 ( 4.32 )
+* Revamp users index page
+
+# Monday, 23th November 2015 ( 4.31 )
+* Add Subject calendar view
+
 # Thursday, 12th November 2015 ( 4.30.1 )
 * New user onboarding
 * Add search bar on DirectMessages index
