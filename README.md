@@ -8,7 +8,7 @@
 * Add Facebook video integration
 * Add support for Slideshare & Speakerdeck
 
-# thursday, 26th November 2015 ( 4.33 )
+# Thursday, 26th November 2015 ( 4.33 )
 * Email to task address for each workspace
 
 # Tuesday 24th November 2015 ( 4.32 )
