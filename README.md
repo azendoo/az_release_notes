@@ -1,3 +1,27 @@
+# Wednesday, 13th January 2016 ( 5.3.0 )
+* Feature workspace calendar
+* Add not shared tag in task list & card
+* Remove unused stuff
+* New subject invitation modal
+
+# Tuesday January 12th 2016 ( 5.2.5 )
+* Filter users by name && email on user index
+
+# Friday January 8th 2016 ( 5.2.0 )
+* Add access to Workspace settings on Organisations index
+
+# Wednesday January 6th 2016 ( 5.1.16 )
+* Add subject title on sidemenu #3934
+* Autoselect section title when editing
+
+#  Saturday 19th December 2015 ( 5.1.0 )
+- Add Delete Organizations
+
+# Thursday 17th December 2015 ( 4.37.0 )
+* Added cc and bcc to create tasks
+* New subject invitation modal
+* Keep text formatting in email to task description
+
 # Friday, 4th December 2015 ( 4.35 )
 * New overview page (group tasks by workspace)
 * Add workspace settings modal
