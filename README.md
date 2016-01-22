@@ -1,3 +1,6 @@
+# Friday, 22nd January 2016 ( 5.5.0 )
+* Revamped User Settings and access to User Profile
+
 # Wednesday, 13th January 2016 ( 5.3.0 )
 * Feature workspace calendar
 * Add not shared tag in task list & card
