@@ -1,3 +1,8 @@
+
+# Tuesday, 2nd February 2016 ( 5.6.0 )
+* New workspace subjects list modal
+* Counter is active when a subject search query has results and the tab has results on subject list index
+
 # Friday, 22nd January 2016 ( 5.5.0 )
 * Revamped User Settings and access to User Profile
 
