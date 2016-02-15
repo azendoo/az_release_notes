@@ -1,6 +1,16 @@
+# Friday, 12th February 2016 ( 5.10.0 )
+* Pre-assign dropdown when creating tasks from a subject's page
+* Guest can use Direct Messages
+* Display organizations managers and tooltips
+* Additional "Plan Later“ options for tasks
+* A workspace admin can delete any conversation on the workspace
+* Only managers can create a workspace on an organization
+* A manager can update billing infos
+* A manager can edit organization title directly from the My organizations page
 
 # Tuesday, 2nd February 2016 ( 5.6.0 )
 * New workspace subjects list modal
+* Duplicate a task
 * Counter is active when a subject search query has results and the tab has results on subject list index
 
 # Friday, 22nd January 2016 ( 5.5.0 )
@@ -8,7 +18,7 @@
 
 # Wednesday, 13th January 2016 ( 5.3.0 )
 * Feature workspace calendar
-* Add not shared tag in task list & card
+* Not Shared tag in task list & card
 * Remove unused stuff
 * New subject invitation modal
 
@@ -16,14 +26,14 @@
 * Filter users by name && email on user index
 
 # Friday January 8th 2016 ( 5.2.0 )
-* Add access to Workspace settings on Organisations index
+* Access to Workspace settings on Organisations index
 
 # Wednesday January 6th 2016 ( 5.1.16 )
-* Add subject title on sidemenu #3934
+* Subject title on sidemenu #3934
 * Autoselect section title when editing
 
 #  Saturday 19th December 2015 ( 5.1.0 )
-- Add Delete Organizations
+- Delete an Organization
 
 # Thursday 17th December 2015 ( 4.37.0 )
 * Added cc and bcc to create tasks
